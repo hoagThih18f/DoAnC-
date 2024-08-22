@@ -1,0 +1,51 @@
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTrangChu.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemDanhMuc.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Product.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachDanhMuc.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemSanPham.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongTinNhanVien.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachSanPham.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemKhachHang.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachNhanVien.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachNhaCungCap.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemNhanVien.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\quanlycuahang\code\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSuaSanPham.resources
+D:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachDanhMuc.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachNhaCungCap.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachNhanVien.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDanhSachSanPham.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmHome.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmNhapHang.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmSuaSanPham.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemDanhMuc.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemKhachHang.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemNhanVien.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThemSanPham.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmThongTinNhanVien.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTrangChu.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Product.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
